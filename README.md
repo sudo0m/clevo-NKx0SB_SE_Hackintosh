@@ -1,4 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
+## 2024-07-26
+在 ##2022-05-29 的基础上
+测试机：神舟tx6ti-cu5da nk60sb磨具，更新驱动，oc版本1.00，适配ventura
+
 
 ## 2023-02-02
 神舟tx6-cu5da nk60sb模具，适配ventura（macos 13.2）；触摸板全手势支持；nvram工具支持；升级oc088版本。支持睿频控制，需要的可以联系！
