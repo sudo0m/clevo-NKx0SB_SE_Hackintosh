@@ -1,7 +1,7 @@
 # clevo-NKx0SB_SE_Hackintosh
 ## 2024-07-26
 在 ##2022-05-29 的基础上
-测试机：神舟tx6ti-cu5da nk60sb磨具，更新驱动，oc版本1.00，适配ventura
+测试机：神舟tx6ti-cu5da nk60sb磨具，更新驱动，oc版本1.00，适配ventura，添加主题
 
 
 ## 2023-02-02
